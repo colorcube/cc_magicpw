@@ -1,0 +1,4 @@
+  # cat=basic/enable; type=string; label=Enable FE magic password: Enter the magic password here. Leave empty if you want to disable the magic passwword for FE.
+FE_magic_pw =
+  # cat=basic/enable; type=string; label=Enable BE magic password: Enter the magic password here. Leave empty if you want to disable the magic passwword for BE.
+BE_magic_pw =
