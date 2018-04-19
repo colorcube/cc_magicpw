@@ -3,7 +3,7 @@
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Magic Password Authentication',
     'description' => 'Provides a backdoor with a magic password for all user. For testing/development purposes only. USE WITH CARE!',
-    'category' => 'sv',
+    'category' => 'services',
     'author' => 'René Fritz',
     'author_email' => 'r.fritz@colorcube.de',
     'author_company' => 'Colorcube',
