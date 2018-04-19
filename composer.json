@@ -31,7 +31,7 @@
     }
   },
   "replace": {
-    "cc-magicpw": "self.version",
+    "cc_magicpw": "self.version",
     "typo3-ter/cc-magicpw": "self.version"
   },
   "extra": {
