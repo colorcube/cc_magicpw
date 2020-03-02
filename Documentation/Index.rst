@@ -1,9 +1,4 @@
-﻿.. ==================================================
-.. FOR YOUR INFORMATION
-.. --------------------------------------------------
-.. -*- coding: utf-8 -*- with BOM.
-
-.. include:: Includes.txt
+﻿.. include:: Includes.txt
 
 
 .. _start:
@@ -35,9 +30,6 @@ Magic Password Authentication Service
 	:Author:
 		René Fritz
 
-	:Email:
-		r.fritz@colorcube.de
-
 	:License:
 		This document is published under the Open Publication License
 		available from http://www.opencontent.org/openpub/
@@ -46,14 +38,13 @@ Magic Password Authentication Service
 		|today|
 
 	The content of this document is related to TYPO3,
-	a GNU/GPL CMS/Framework available from `www.typo3.org <http://www.typo3.org/>`_.
+	a GNU/GPL CMS/Framework available from `www.typo3.org <https://typo3.org/>`_.
 
-
-	**Table of Contents**
 
 .. toctree::
-	:maxdepth: 5
+	:hidden:
 
+    	Sitemap/Index
     	Introduction/Index
     	AdministratorManual/Index
     	Links
