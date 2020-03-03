@@ -12,7 +12,7 @@ all users.
 
 Install and configure in extension manager.
 
-Further information: https://docs.typo3.org/typo3cms/extensions/cc_magicpw/
+Further information: https://docs.typo3.org/p/colorcube/cc-magicpw/master/en-us/
 
 ### Dependencies
 
@@ -30,7 +30,7 @@ Download and install the extension with the extension manager module.
 
 ### Configuration
 
-Configure the magic password in the extension manager (you might want to have a look into the [manual](https://docs.typo3.org/typo3cms/extensions/cc_magicpw/))
+Configure the magic password in the extension manager (you might want to have a look into the [manual](https://docs.typo3.org/p/colorcube/cc-magicpw/master/en-us/))
 
 
 ## Contribute
